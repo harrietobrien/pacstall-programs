@@ -5216,7 +5216,6 @@ pkgbase = libcamera-git
 	makedepends = meson
 	maintainer = Oren Klopfer <oren@taumoda.com>
 	source = https://git.libcamera.org/libcamera/libcamera.git
-	pacdeps_focal = meson-focal-deb
 
 pkgname = libcamera-git
 ---
@@ -5448,7 +5447,6 @@ pkgbase = liblcf
 	repology = project: liblcf
 	source = https://easyrpg.org/downloads/player/0.8/liblcf-0.8.tar.xz
 	sha256sums = 6b0d8c7fefe3d66865336406f69ddf03fe59e52b5601687265a4d1e47a25c386
-	depends_focal = libicu66
 	depends_jammy = libicu70
 	depends_bullseye = libicu67
 
