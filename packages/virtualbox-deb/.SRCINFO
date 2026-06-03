@@ -12,11 +12,7 @@ pkgbase = virtualbox-deb
 	maintainer = Gianluca Mastrolonardo <gianlucamastrolonardo10@gmail.com>
 	maintainer = xdavius <xdavius@github.com>
 	repology = project: virtualbox
-	source_jammy = https://download.virtualbox.org/virtualbox/7.1.0/virtualbox-7.1_7.1.0-164728~Ubuntu~jammy_amd64.deb
-	source_noble = https://download.virtualbox.org/virtualbox/7.1.0/virtualbox-7.1_7.1.0-164728~Ubuntu~noble_amd64.deb
 	source_bookworm = https://download.virtualbox.org/virtualbox/7.1.0/virtualbox-7.1_7.1.0-164728~Debian~bookworm_amd64.deb
-	sha256sums_jammy = 6c5c65fab5eed2f18c5689579004140abadd1f8e0b1af751dd58aa7eb3fbec8c
-	sha256sums_noble = 56aefc0c12fd3d9a9efb336c08956e5c1a1c4cedca8f6e25193742d6b5932497
 	sha256sums_bookworm = 5dc2a38fec468b2af74ee20c986edfddcafef7701fd336e6c6d971cb3c621cc0
 
 pkgname = virtualbox-deb
