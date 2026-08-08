@@ -3,8 +3,3 @@ pkgbase = cachyos-ananicy-rules-git
 	pkgver = 0.0.1
 	pkgdesc = ananicy-cpp rules for CachyOS
 	url = https://github.com/CachyOS/ananicy-rules
-	pacdeps = ananicy-cpp
-	maintainer = vigress8 <vig@disroot.org>
-	source = https://github.com/CachyOS/ananicy-rules.git
-
-pkgname = cachyos-ananicy-rules-git
