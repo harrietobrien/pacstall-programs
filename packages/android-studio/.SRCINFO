@@ -1,21 +1,3 @@
 pkgbase = android-studio
 	pkgver = 2024.1.1.12
 	pkgdesc = Android Studio is the official integrated development environment (IDE) for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development
-	depends = libc6-i386
-	depends = lib32ncurses6
-	depends = lib32stdc++6
-	depends = lib32z1
-	depends = libbz2-1.0:i386
-	replaces = android-studio
-	replaces = android-studio-beta
-	replaces = android-studio-canary
-	maintainer = Oren Klopfer <oren@taumoda.com>
-	repology = project: android-studio
-	repology = repo: aur
-	repology = visiblename: android-studio
-	source = https://dl.google.com/dl/android/studio/ide-zips/2024.1.1.12/android-studio-2024.1.1.12-linux.tar.gz
-	source = android-studio.desktop::https://raw.githubusercontent.com/pacstall/pacstall-programs/master/packages/android-studio/android-studio.desktop
-	sha256sums = 42f8bf31ce0d124ddd11195f662a30064d8f9aab206e5e66839e876a6bc6eda2
-	sha256sums = SKIP
-
-pkgname = android-studio
