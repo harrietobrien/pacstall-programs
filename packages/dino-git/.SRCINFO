@@ -2,11 +2,3 @@ pkgbase = dino-git
 	gives = dino
 	pkgver = 0.1.1
 	pkgdesc = An extensible database system written in Bash
-	breaks = dino
-	breaks = dino-app
-	breaks = dino-bin
-	breaks = dino-deb
-	maintainer = Elsie19 <elsie19@pm.me>
-	source = https://github.com/Elsie19/Dino.git
-
-pkgname = dino-git
