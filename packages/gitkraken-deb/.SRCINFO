@@ -2,11 +2,3 @@ pkgbase = gitkraken-deb
 	gives = gitkraken
 	pkgver = 10.1.0
 	pkgdesc = Legendary Git GUI client for Windows, Mac & Linux
-	breaks = gitkraken-bin
-	replaces = gitkraken
-	maintainer = Oren Klopfer <oren@taumoda.com>
-	repology = project: gitkraken
-	source = https://release.axocdn.com/linux/GitKraken-v10.1.0.deb
-	sha256sums = c94fb01b50d12cf7c195e800450166b1d3a514f5205248e057c9ce674d63e21d
-
-pkgname = gitkraken-deb
