@@ -3,14 +3,3 @@ pkgbase = discord-deb
 	pkgver = 0.0.71
 	pkgdesc = Chat for Communities and Friends. Discord is the easiest way to communicate over voice, video, and text. Chat, hang out, and stay close with your friends and communities
 	url = https://discord.com/
-	arch = amd64
-	breaks = discord
-	breaks = discord-app
-	breaks = discord-debian-patched-deb
-	maintainer = ObsidianPresidium <emil@aarestrup.nu>
-	maintainer = Medaey <medaey@hotmail.com>
-	repology = project: discord
-	source = https://dl.discordapp.net/apps/linux/0.0.71/discord-0.0.71.deb
-	sha256sums = 90b0292d2b0cd4308f43e873e4dfde99863f87cf4d77e4cdd30b9738ebbcd8eb
-
-pkgname = discord-deb
