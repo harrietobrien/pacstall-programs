@@ -3,14 +3,3 @@ pkgbase = ticktick-deb
 	pkgver = 2.0.20
 	pkgdesc = A powerful to-do & task management app with seamless cloud synchronization across all your devices
 	url = https://ticktick.com
-	breaks = ticktick
-	breaks = ticktick-bin
-	breaks = ticktick-git
-	breaks = ticktick-app
-	breaks = ticktick-deb
-	replaces = ticktick
-	maintainer = Arrowsome <ramtintoosi@gmail.com>
-	repology = project: ticktick
-	repology = repo: aur
-
-pkgname = ticktick-deb
