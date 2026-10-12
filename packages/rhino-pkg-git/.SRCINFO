@@ -3,10 +3,3 @@ pkgbase = rhino-pkg-git
 	pkgver = 0.1.2
 	pkgrel = 2
 	pkgdesc = Rhino-pkg wrapper script
-	depends = gettext
-	makedepends = make
-	makedepends = gettext
-	maintainer = Oren Klopfer <oren@taumoda.com>
-	source = https://github.com/rhino-linux/rhino-pkg.git
-
-pkgname = rhino-pkg-git
